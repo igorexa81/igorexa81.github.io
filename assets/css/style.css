@@ -1,0 +1,62 @@
+body {
+    background-color:white;
+    width: 960;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    font-family:  "Georgia", "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%
+    
+}
+
+h1 {
+    background-color: #4aaaa5;
+    margin-top: 0;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    width: 25%
+
+}
+  .container {
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  #about-me {
+    margin: 0;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    }
+ h2 {
+     text-emphasis-color:#4aaaa5;
+ }
+
+
+p {
+    text-align: left;
+    width: 70%
+}
+
+#bio-image {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+  }
+
+#about-me,
+#btn-info,
+#bio-image {
+  float: left;
+}
+
+#boxAbout{
+  margin-top: 50px;
+  
+}
